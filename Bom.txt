@@ -1,0 +1,7 @@
+MMIC: CEL NE3512S02 or NE3503M04
+SMA Connector: Amphenol 132147-48
+Substrate: Rogers 4003C, 20 mil
+Bias Resistors: 10Ω, 100Ω, 1kΩ
+Capacitors: 0.1µF, 10pF, 100pF
+Voltage Regulator: 3.3V LDO
+Package: Hammond 1590LLB
